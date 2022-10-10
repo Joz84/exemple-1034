@@ -1,1 +1,1 @@
-puts "Coco"
+puts "Super Coco"
